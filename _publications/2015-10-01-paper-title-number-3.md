@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "BengaliASR: Self-Supervised Pretraining for Low-Resource Languages"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: conferences
+permalink: /publication/2025-08-01-bengali-asr
+excerpt: 'This paper presents a self-supervised pretraining approach for low-resource Bengali speech recognition.'
+date: 2025-08-01
+venue: 'INTERSPEECH 2025'
+citation: 'Aisha Rahman, et al. "BengaliASR: Self-Supervised Pretraining for Low-Resource Languages." <i>INTERSPEECH 2025</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces BengaliASR, a self-supervised pretraining framework designed specifically for low-resource Bengali speech recognition. Our approach leverages large-scale unlabeled Bengali speech data to learn robust representations, achieving significant improvements over traditional supervised methods.
